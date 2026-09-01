@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://bigbassbonanza-game.pages.dev/sitemap.xml
+Sitemap: https://bigbassbonanza-game-7rx.pages.dev/sitemap.xml
